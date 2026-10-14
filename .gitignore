@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Rendered and source media files (prevents pushing huge videos to GitHub)
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.webm
+*_TEMP_SILENT_*.mp4
+
+# IDE & OS specific files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
