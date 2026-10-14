@@ -4,6 +4,7 @@ import subprocess
 import sys
 import time
 
+print("MADE BY DIPANJAN BAIDYA\nig: @xom699\n just a follow")
 
 # =====================================================================
 # 1. AUTOMATIC DEPENDENCY INSTALLER
